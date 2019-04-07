@@ -6,8 +6,9 @@ In this repository, you will get the working application of Laravel + Vue Js + J
 
 You can read the following articles for better understanding.
 
-    https://codebriefly.com/laravel-jwt-authentication-vue-ja-spa-part-1/
-    https://codebriefly.com/laravel-jwt-authentication-vue-js-spa-part-2/
+https://codebriefly.com/laravel-jwt-authentication-vue-ja-spa-part-1/
+
+https://codebriefly.com/laravel-jwt-authentication-vue-js-spa-part-2/
 
 ## About codebriefly.com
 
